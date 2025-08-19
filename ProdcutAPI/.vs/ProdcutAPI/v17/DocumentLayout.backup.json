@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|c:\\projects\\c#\\asp.net-core-web-product-api\\prodcutapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|c:\\projects\\c#\\asp.net-core-web-product-api\\prodcutapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|c:\\projects\\c#\\asp.net-core-web-product-api\\prodcutapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|c:\\projects\\c#\\asp.net-core-web-product-api\\prodcutapi\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|c:\\projects\\c#\\asp.net-core-web-product-api\\prodcutapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399BDEBF-7A6B-4651-9A62-756DE70334F3}|ProdcutAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:09:49.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:06:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:03:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDTO.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "Models\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:02:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\PROJECTS\\C#\\ASP.NET-Core-Web-Product-API\\ProdcutAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:00:04.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
