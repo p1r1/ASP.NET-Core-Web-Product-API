@@ -1,4 +1,4 @@
-﻿namespace ProductAPI.Test;
+﻿namespace ProductAPI.Tests;
 
 public class UnitTest1
 {

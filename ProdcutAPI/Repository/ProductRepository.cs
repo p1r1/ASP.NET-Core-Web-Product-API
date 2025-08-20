@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProdcutAPI.Data;
-using ProdcutAPI.Models;
+using ProductAPI.Data;
+using ProductAPI.Models;
 
-namespace ProdcutAPI.Repository {
+namespace ProductAPI.Repository {
     public class ProductRepository : IProductRepository{
         // get context
         private readonly AppDbContext _context;

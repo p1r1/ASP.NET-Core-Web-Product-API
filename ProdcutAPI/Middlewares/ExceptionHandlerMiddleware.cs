@@ -1,4 +1,4 @@
-﻿namespace ProdcutAPI.Middlewares {
+﻿namespace ProductAPI.Middlewares {
     public class ExceptionHandlerMiddleware {
         private readonly RequestDelegate _next;
         public ExceptionHandlerMiddleware(RequestDelegate next) => _next = next;

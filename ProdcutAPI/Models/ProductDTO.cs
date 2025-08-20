@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProdcutAPI.Models {
+namespace ProductAPI.Models {
     public class ProductDTO {
         [Required]
         [StringLength(100)]

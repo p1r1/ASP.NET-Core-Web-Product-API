@@ -1,4 +1,4 @@
-﻿namespace ProdcutAPI.Models {
+﻿namespace ProductAPI.Models {
     public class Product {
         public int id { get; set; }
         public required string Name { get; set; }

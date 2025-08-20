@@ -1,11 +1,11 @@
 
 using Microsoft.EntityFrameworkCore;
-using ProdcutAPI.Data;
-using ProdcutAPI.Middlewares;
-using ProdcutAPI.Repository;
-using ProdcutAPI.Services;
+using ProductAPI.Data;
+using ProductAPI.Middlewares;
+using ProductAPI.Repository;
+using ProductAPI.Services;
 
-namespace ProdcutAPI
+namespace ProductAPI
 {
     public class Program
     {
@@ -42,6 +42,7 @@ namespace ProdcutAPI
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                Console.WriteLine("https://localhost:7030/swagger/index.html");
             }
             app.UseSwagger();
             app.UseSwaggerUI();
@@ -50,7 +51,7 @@ namespace ProdcutAPI
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
+            
 
             app.MapControllers();
 

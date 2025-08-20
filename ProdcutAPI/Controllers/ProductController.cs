@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProdcutAPI.Models;
-using ProdcutAPI.Services;
+using ProductAPI.Models;
+using ProductAPI.Services;
 
-namespace ProdcutAPI.Controllers {
+namespace ProductAPI.Controllers {
 
     [ApiController]
     [Route("/api/[controller]")]

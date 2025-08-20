@@ -1,7 +1,7 @@
-﻿using ProdcutAPI.Models;
-using ProdcutAPI.Repository;
+﻿using ProductAPI.Models;
+using ProductAPI.Repository;
 
-namespace ProdcutAPI.Services {
+namespace ProductAPI.Services {
     public class ProductService: IProductService {
         //repo
         private readonly IProductRepository _repository;

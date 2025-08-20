@@ -1,6 +1,6 @@
-﻿using ProdcutAPI.Models;
+﻿using ProductAPI.Models;
 
-namespace ProdcutAPI.Repository {
+namespace ProductAPI.Repository {
     public interface IProductRepository {
         Task<List<Product>> GetAllAsync();
         Task<Product?> GetByIdAsync(int id);
