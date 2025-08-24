@@ -1,9 +1,11 @@
 ASP.NET Core Web Product API
 
-Migrations
+Migrations:
+
 Add-Migration InitialCreate
 Update-Database
 
-yada
+yada:
+
 dotnet ef migrations add InitialCreate
 dotnet ef database update
