@@ -2,16 +2,6 @@
 
 .NET 9 ile geliştirilmiş basit Product API uygulaması. PostgreSQL veritabanı kullanır.
 
-## 🚀 Özellikler
-
-- ✅ CRUD Operasyonları (Create, Read, Update, Delete)
-- ✅ Katmanlı Mimari (Controller-Service-Repository)
-- ✅ PostgreSQL Entegrasyonu
-- ✅ Swagger API Dokümantasyonu
-- ✅ Global Exception Handling
-- ✅ Dependency Injection
-- ✅ Asenkron Programlama
-
 ## 📋 Gereksinimler
 
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download)
